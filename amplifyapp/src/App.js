@@ -1,3 +1,4 @@
+  GNU nano 7.2                                                  App.js
 import logo from './logo.svg';
 import './App.css';
 
@@ -23,3 +24,6 @@ function App() {
 }
 
 export default App;
+
+
+
